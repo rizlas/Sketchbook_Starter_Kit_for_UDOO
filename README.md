@@ -1,6 +1,5 @@
-Sketchbook Starter Kit for Arduino
+Sketchbook Starter Kit for UDOO
 ===========================
 
 
-
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Starter_Kit_for_Arduino)](https://github.com/igrigorik/ga-beacon)
+This repository contains the example sketches to use the Grove starter kit for UDOO items. 
