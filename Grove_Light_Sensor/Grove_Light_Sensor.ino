@@ -10,7 +10,7 @@ int thresholdvalue=400;                 //the threshold to turn on or off the LE
 
 void setup()
 {
-    pinMode(pinLed, OUTPUT);             //set the LED on Digital 12 as an OUTPUT
+    pinMode(pinLed, OUTPUT);             //set the LED on Digital 7 as an OUTPUT
 }
 
 void loop()
